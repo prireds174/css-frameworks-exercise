@@ -16,7 +16,6 @@ You can pick one of the popular frameworks such as Bootstrap, Materialize, Found
     > ...
 2. What company maintains this framework?
 3. What does it advertise about itself to appeal to potential users?
-    > ...
 4. How do you include this framework on your own site if you want to use it? Does it have a CDN?
 5. Does it have a grid system? If yes, describe how that grid system works.
 6. Find an example of a website that uses this framework. How much does it differ from the default appearance?
