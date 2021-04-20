@@ -4,7 +4,7 @@
 
 With your lab partner pick two front-end frameworks and answer the following questions for each of them. 
 
-__Deliverable__: Combine your research into a `Readme.md` in your unit1 `css` directory
+__Deliverable__: Combine your research into a `Readme.md` in your unit1 `css` directory and share in the class thread. 
 
 ### Not sure where to start?
 
