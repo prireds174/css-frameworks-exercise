@@ -4,7 +4,11 @@
 
 With your lab partner pick two front-end frameworks and answer the following questions for each of them. 
 
-__Deliverable__: Combine your research into cloned fork of this `Readme.md` in your unit1 `deliverables` directory and share a link in the class thread. 
+Instructions: 
+- Fork and clone this repo 
+- Collaborate on your research 
+- Add your notes directly to this `Readme.md` (Stretch Goal: use development + pull requests to merge your local code to your forked repo)
+- Share a link to your finished research in the class thread
 
 ### Not sure where to start?
 
