@@ -2,11 +2,9 @@
 
 ## Your task
 
-With your lab partner pick two front-end frameworks and answer the following questions for each of them. 
-
 Instructions: 
 - Fork and clone this repo 
-- Collaborate on your research 
+- With a partner, select two (2) front-end frameworks, research and answer the following questions below. 
 - Add your notes directly to this `Readme.md` (Stretch Goal: use development + pull requests to merge your local code to your forked repo)
 - Share a link to your finished research in the class thread
 
@@ -30,6 +28,7 @@ You can pick one of the popular frameworks such as Bootstrap, Materialize, Found
 **CSS FRAMEWORK 2:**
 
 1. What is the name of this framework?
+    > ...
 2. What company maintains this framework?
 3. What does it advertise about itself to appeal to potential users?
 4. How do you include this framework on your own site if you want to use it? Does it have a CDN?
